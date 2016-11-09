@@ -1,0 +1,22 @@
+{
+    "name": "surrealcristian/simple-snmp",
+    "description": "Interface that describes a SNMP clint.",
+    "keywords": [ "snmp", "interface" ],
+    "homepage": "https://github.com/surrealcristian/simple-snmp-php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cristian Cabrera",
+            "email": "surrealcristian@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SurrealCristian\\SimpleSnmp\\": "src"
+        }
+    }
+}
