@@ -1,6 +1,6 @@
 {
     "name": "surrealcristian/simple-snmp",
-    "description": "Interface that describes a SNMP clint.",
+    "description": "Interfaces and classes that describes a SNMP client.",
     "keywords": [ "snmp", "interface" ],
     "homepage": "https://github.com/surrealcristian/simple-snmp-php",
     "type": "library",
